@@ -1,0 +1,13 @@
+{
+  "name": "package",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "gulp": "^3.7.0",
+    "gulp-coffee": "^2.2.0",
+    "gulp-mocha": "^1.1.1",
+    "chai": "^1.10.0"
+  }
+}
